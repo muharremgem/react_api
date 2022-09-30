@@ -5,8 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-
-[react_api](https://react-api-p1b4.vercel.app/)| Html Css Js | !react_api](api.gif)
+[react_api](https://react-api-p1b4.vercel.app/)| Html Css JavaScript | ![react_api](api.gif)
 
 
 
